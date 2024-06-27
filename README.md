@@ -1,8 +1,9 @@
+<img width="5000" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Beaming Face with Smiling Eyes" />
+
 <br><br>
 <h1 align="center">Hi 👋, I'm Le Phuoc Dieu My</h1>
 <h3 align="center">A software engineering student at FPT University</h3>
-<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
-
+<img align="right" width="600" src="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/447664011_948818650375733_4416317516855756647_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wuldqhL3K5cQ7kNvgHWYuPI&_nc_ht=scontent.fdad1-2.fna&oh=00_AYCxXK7lgf47XTqtYRDIrFIFDCBY121tdC96JmXGEt-8bg&oe=66834CD1"  />
 - 📫 How to reach me *lpdmy15@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
