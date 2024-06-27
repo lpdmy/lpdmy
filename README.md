@@ -1,7 +1,7 @@
 <br><br>
 <h1 align="center">Hi 👋, I'm Le Phuoc Dieu My</h1>
 <h3 align="center">A software engineering student at FPT University</h3>
-<img align="right" width="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 
 - 📫 How to reach me *lpdmy15@gmail.com*
 
