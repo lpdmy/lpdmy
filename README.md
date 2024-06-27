@@ -1,9 +1,7 @@
-![216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5](https://github.com/lpdmy/lpdmy/assets/144099333/7051da0e-54d9-49c6-8339-42c2ddfb069b)<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
 <br><br>
 <h1 align="center">Hi 👋, I'm Le Phuoc Dieu My</h1>
 <h3 align="center">A software engineering student at FPT University</h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 
 - 📫 How to reach me *lpdmy15@gmail.com*
 
